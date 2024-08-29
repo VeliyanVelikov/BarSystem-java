@@ -42,9 +42,7 @@ public class ProductCategoryPanel extends BasePanel {
             }
 
     }
-    public void testMethod(){
 
-    }
 
 
     public void createCategoriesButtons(){
