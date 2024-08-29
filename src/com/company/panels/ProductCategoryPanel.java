@@ -31,7 +31,7 @@ public class ProductCategoryPanel extends BasePanel {
         createSettingsButton();
 
     }
-    // Problem found, creates only one initial order on first chosen table !!
+    // Problem found, creates only one initial order on first chosen table-- !!
 
     public void createFirstOrderAction(int currentTableNumber){
         OrderPanel orderPanel = new OrderPanel(frame,tableNumber,null);
@@ -42,6 +42,7 @@ public class ProductCategoryPanel extends BasePanel {
             }
 
     }
+
 
 
     public void createCategoriesButtons(){
